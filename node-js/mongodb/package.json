@@ -1,0 +1,16 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conn.js",
+  "scripts": {
+    "start": "node conn.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "mongoose": "5.10.7"
+  }
+}
